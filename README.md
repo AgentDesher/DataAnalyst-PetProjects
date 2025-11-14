@@ -1,5 +1,5 @@
 # Yandex.Praktikum Data Analysis Projects
-<img src="https://avatars.mds.yandex.net/get-lpc/12373972/d2e38eb2-47c7-4e45-b338-3459447989fd/orig" alt="Логотип ЯндексПрактикума">
+<img src="https://drive.google.com/file/d/1UrMLa8RRbLHUVMgMBujQ4HeRBu0iN827/view?usp=sharing" alt="Баннер">
 
 #### Репозиторий с портфолио проектов, выполненных на курсе "Аналитик данных" в Яндекс.Практикум.
 
