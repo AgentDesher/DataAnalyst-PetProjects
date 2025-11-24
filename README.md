@@ -1,4 +1,4 @@
-# Yandex.Praktikum Data Analysis Projects
+# Data Analytics Projects
 <img src="https://github.com/AgentDesher/DataAnalyst-PetProjects/blob/main/git_banner.jpg" alt="Баннер">
 
 #### Репозиторий с портфолио проектов, выполненных на курсе "Аналитик данных" в Яндекс.Практикум.
