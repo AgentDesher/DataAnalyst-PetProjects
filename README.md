@@ -14,7 +14,7 @@
 | [Проект №7](https://github.com/AgentDesher/DataAnalyst-PetProjects/tree/main/donorSearch) | Анализ вовлечённости доноров для проекта DonorSearch. [Dashboard](https://datalens.yandex/xukteodgvp00i) | SQL, DataLens | — |
 | [Проект №8](https://github.com/AgentDesher/DataAnalyst-PetProjects/tree/main/msk-cafe-restaurant) | Анализ заведений общественного питания в Москве | Python | Pandas, Matplotlib, Seaborb, SciPy |
 | [Проект №9](https://github.com/AgentDesher/DataAnalyst-PetProjects/tree/main/scooter-rental) | Анализ демографии, способа использования самокатов, проверка гипотезы о платной подписке для сервиса по прокату самокатов. | Python | Pandas, Matplotlib,Math, SciPy, NormalIndPower, Proportions_ztest |
-|--------------------|----------|----------|----------|
+|---------------|----------|----------||
 
 
 
