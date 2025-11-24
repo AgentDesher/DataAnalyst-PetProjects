@@ -9,4 +9,6 @@
 | [Проект №2](https://github.com/AgentDesher/YandexPracticum-DataAnalyst-Projects/tree/main/computer-games-in-XXI-century "Код проекта на GitHub")  | Подоготовила набор данных для статьи о развитии индустрии компьютерных игр в начале XXI века. | Python | pandas, matplotlib, pyplot |
 | [Проект №3](https://github.com/AgentDesher/YandexPracticum-DataAnalyst-Projects/tree/main/food-delivery-metrics "Код проекта на GitHub")  | Анализ ключевые метрики сервиса доставки еды «Всё.из.кафе» в Саранске за период с 1 мая по 30 июня 2021 года. [Dashboard](https://datalens.yandex/6daka5z6nbfos "Дашборд в Datalens")  |SQL, Datalens| — |
 | [Проект №4](https://github.com/AgentDesher/YandexPracticum-DataAnalyst-Projects/tree/main/startup-research "Код проекта на GitHub")  | Анализ стартапов для выхода на инвестиционный рынок | Python | pandas, numpy, matplotlib, pyplot |
+| [Проект №5](https://github.com/AgentDesher/DataAnalyst-PetProjects/tree/main/analyst_vacancies_hh_ru) | Анализ вакансий для аналитиков данных на HH.ru. | SQL, DataLens | —   |
+| ----------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------- | --- |
 
